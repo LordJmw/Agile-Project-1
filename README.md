@@ -25,7 +25,7 @@ npm install
 ```
 
 ### 3️⃣ Setup the Environment Variables
-Create a .env file in both frontend and backend folder to configure it properly
+Create a .env file in both frontend and backend folder to configure it properly<br>
 Backend .env example:
 ```env
 DB_HOST=localhost
