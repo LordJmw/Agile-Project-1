@@ -30,8 +30,8 @@ Backend .env example:
 ```env
 DB_HOST=localhost
 DB_USER=root
-DB_PASS= 
-DB_NAME=crud_db
+DB_PASS=yourpassword
+DB_NAME=yourdatabase
 DB_PORT=3306
 PORT=3000
 ```
